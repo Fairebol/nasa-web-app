@@ -1,7 +1,7 @@
 [
     {
       "name": "Sun",
-      "desc": "The Sun is the star at the center of the Solar System. It is a nearly perfect sphere of hot plasma.",
+      "desc": "Composition: Star (mainly hydrogen and helium).\n Temperature: Surface about 5,500 °C; interior may reach more than 15 million °C.\n Size and gravity: Diameter about 1.4 million km; gravity 28 times that of Earth.\n Atmosphere: Does not have a solid atmosphere like a planet, but has an outer atmosphere composed of plasma (corona and chromosphere).",
       "scale": 5,
       "orbitRadius": null,
       "position": 0,
@@ -14,7 +14,7 @@
     },
     {
       "name": "Mercury",
-      "desc": "Mercury is the smallest and innermost planet in the Solar System. It is the closest planet to the Sun and the second-closest planet to the Earth.",
+      "desc": "Composition: Rocky, mainly metal and silicates.\n Temperature: Extremely variable; from -173 °C at night to 427 °C during the day.\n Size and gravity: Diameter about 4,880 km, the smallest planet in the solar system; gravity is 0.38 times that of Earth. \n Atmosphere: Almost nonexistent; its sparse atmosphere is extremely thin and composed of oxygen, sodium, hydrogen, helium, and potassium.",
       "scale": 17,
       "orbit": {
         "x": 195,
@@ -37,7 +37,7 @@
     },
     {
       "name": "Venus",
-      "desc": "Venus is the second planet from the Sun and the brightest object in the night sky.",
+      "desc": "Composition: Rocky, Earth-like with a surface of rock and metal. \n Temperature: Very hot, about 465 °C; this temperature remains nearly constant due to an extreme greenhouse effect. \n Size and gravity: Diameter about 12,104 km; gravity is 0.91 times that of Earth. \n Atmosphere: Dense and composed mainly of carbon dioxide (96.5%) with clouds of sulfuric acid, which contributes to a strong greenhouse effect.",
       "scale": 25,
       "orbit": {
         "x": 325,
@@ -61,7 +61,7 @@
     },
     {
       "name": "Earth",
-      "desc": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
+      "desc": "Composition: Primarily nitrogen (78%) and oxygen (21%) and others gases.  \n Temperature: The average temperature is 15°C, but this can be change depending the zone where we are \n Gravity and size: The earth has a gravity approximately 9.81m/s2 and the size of te earth is about: 12,742 km",
       "scale": 1,
       "orbit": {
         "x": 500,
@@ -86,7 +86,7 @@
   
     {
       "name": "Mars",
-      "desc": "Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System.",
+      "desc": "Composition: Composed mainly of carbon dioxide, nitrogen and argon, Mars has a thin atmosphere. \n Size and Gravity: Size about 6,779 km has a Surface gravity of about 3.71 m/s2 \n Temperature: The average temperature in mars is around -63°C \n Atmosphere: The atmosphere is compose about a 95% of carbón dioxide, with nitrogen, argón, and trace amounts of oxygen and water vapor",
       "scale": 1,
       "orbit": {
         "x": 760,
@@ -110,7 +110,7 @@
     },
     {
       "name": "Jupiter",
-      "desc": "Jupiter is the largest planet in the Solar System. It is a gas giant with a mass one-thousandth that of the Sun.",
+      "desc": "Composition: It is a gas giant planet with a mass one-thousandth that of the Sun. \n Temperature: The average temperature on Jupiter is about 1,800 degrees Celsius. \n Gravity and size: In terms of gravity, Jupiter has a surface gravity of approximately 24.79 m/s2 and is 129,794 km in radius. \n Atmosphere: Its atmosphere is composed mainly of hydrogen and helium, with a small amount of methane, water and ammonia.",
       "scale": 86,
       "orbit": {
         "x": 1650,
@@ -134,7 +134,7 @@
     },
     {
       "name": "Saturn",
-      "desc": "Saturn is the sixth planet from the Sun and the second-largest planet in the Solar System.",
+      "desc": "Composition: Its main composition is hydrogen and helium, with small amounts of other elements. \n Temperature: The average temperature on Saturn is about -176 °C. \n Gravity and Size: In terms of gravity, Saturn has a surface gravity of approximately 10.44 m/s² and is 58,232 km in radius. \n Atmosphere: Its atmosphere is known for its large storms and white spots. ",
       "scale": 76,
       "orbit": {
         "x": 2500,
@@ -158,7 +158,7 @@
     },
     {
       "name": "Uranus",
-      "desc": "Uranus is the seventh planet from the Sun and the third-largest planet in the Solar System.",
+      "desc": "Composition: it is a gas giant. \n Atmosphere: Composed mainly of hydrogen and helium, with a small amount of methane, water and ammonia. \n Temperature: the minimum in its atmosphere is approximately 49 K (-224 °C), making it the planet with the coldest atmosphere in the solar system. \n Size and Gravity Uranus has a surface gravity of approximately 8.69 m/s² and measures 25,362 km in radius.",
       "scale": 58,
       "orbit": {
         "x": 3500,
@@ -182,7 +182,7 @@
     },
     {
       "name": "Neptune",
-      "desc": "Neptune is the eighth and farthest known planet from the Sun. It is named after the Roman god of the sea, Neptune.",
+      "desc": "Composition: It is a gas giant planet whose atmosphere is composed of 80% hydrogen, approximately 19% helium, and a small amount of methane. \n Temperature: In the upper part of its atmosphere it can be extremely low, with average temperatures around -214 degrees Celsius. \n Size and gravity: It has a surface gravity of approximately 11.15 m/s², which is slightly higher than that of the Earth, and has a radius of 24,622 km.",
       "scale": 58,
       "orbit": {
         "x": 4600,
